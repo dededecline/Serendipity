@@ -1,0 +1,65 @@
+(kicad_sch (version 20230221) (generator eeschema)
+
+  (uuid e63e39d7-6ac0-4ffd-8aa3-1841a4541b55)
+
+  (paper "A5")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 12.7 15.24) (size 44.45 38.1) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 255 0 2 1))
+    (fill (color 0 0 0 0.0000))
+    (uuid 6f364e2d-724d-4df1-b8b4-2cc300c0084d)
+    (property "Sheetname" "Matrix" (at 12.7 14.5284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "Matrix.kicad_sch" (at 12.7 53.9246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Serendipity-rp2040"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 102.87 15.24) (size 43.18 38.1) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 1))
+    (fill (color 0 0 0 0.0000))
+    (uuid 7f19f753-c830-402e-9f5b-2d9a2f54389e)
+    (property "Sheetname" "UDB and Power" (at 102.87 14.5284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "UDBnPower.kicad_sch" (at 102.87 53.9246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Serendipity-rp2040"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 58.42 15.24) (size 43.18 38.1) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 18 255 1))
+    (fill (color 0 0 0 0.0000))
+    (uuid e72fd943-9538-4fef-b707-4941bb343188)
+    (property "Sheetname" "MCU" (at 58.42 14.5284 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "MCU.kicad_sch" (at 58.42 53.9246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "Serendipity-rp2040"
+        (path "/e63e39d7-6ac0-4ffd-8aa3-1841a4541b55" (page "3"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
