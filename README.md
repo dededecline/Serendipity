@@ -16,6 +16,7 @@ More info can be found on the [Geekhack interest check.](https://geekhack.org/in
 * **Badge Screws:** [2x m2x5mm](https://www.mcmaster.com/90236A103)
 * **DB Screws:** [4x m2x5mm](https://www.mcmaster.com/90236A103)
 * **O-Rings:** [16x 1.5mmx2.5mm, 70 duro recommended](https://www.theoringstore.com/store/index.php?main_page=product_info&products_id=1817)
+* **Feet:** [2x Geonworks 60% feet](https://geon.works/products/feet-284)
 
 ## Additional Information
 The o-rings *are required* for the build to work properly. For each plate screw, one o-ring goes between the top case piece and the plate, and another goes between the plate and the screw head. Do not overly tighten plate screws.
